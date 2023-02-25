@@ -6,6 +6,7 @@ let resultado = b/100
 console.log(resultado)
 
 let resultadofinal = a * resultado
+console.log(resultado)
 
 document.write("seu salario passara a ser "+resultadofinal)
 //document.write(resultado)
