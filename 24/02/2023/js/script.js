@@ -7,5 +7,5 @@ console.log(resultado)
 
 let resultadofinal = a * resultado
 
-document.write("seu salario passara a ser "+resultado)
+document.write("seu salario passara a ser "+resultadofinal)
 //document.write(resultado)
